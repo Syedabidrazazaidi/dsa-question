@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
