@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/0125-valid-palindrome) |
+| [1021-remove-outermost-parentheses](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/0560-subarray-sum-equals-k) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
