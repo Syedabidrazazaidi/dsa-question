@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/0033-search-in-rotated-sorted-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/0560-subarray-sum-equals-k) |
