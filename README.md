@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/0560-subarray-sum-equals-k) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/0451-sort-characters-by-frequency) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Syedabidrazazaidi/dsa-question/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
